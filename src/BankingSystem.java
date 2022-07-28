@@ -1,5 +1,3 @@
-package my.first.java.project;
-
 import java.util.Scanner;
 
 public class BankingSystem {
