@@ -11,9 +11,9 @@ A Java system that allows you to deal with bank accounts and transactions.
 Implemented features:
 
  - Open account
- - to check balance
+ - Check balance
  - Deposit funds 
- - Cash withdraw 
+ - Cash withdrawal 
  
  ## Prerequisites
  
